@@ -1,0 +1,19 @@
+{
+  "name": "moderate-admin",
+  "version": "0.1.0",
+  "description": "Moderate 管理后台模版项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moderateMan/moderate-admin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moderateMan/moderate-admin/issues"
+  },
+  "homepage": "https://github.com/moderateMan/moderate-admin#readme"
+}
